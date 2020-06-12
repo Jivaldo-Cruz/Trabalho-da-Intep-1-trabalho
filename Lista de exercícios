@@ -1,0 +1,58 @@
+Na sequência do processo de consolidação autónomo na área dos algoritmos, estruturas de dados e da codificação (resolução de problemas em Python), deixo-vos hoje 18 desafios para fazerem. 
+
+“ESPECIFICAÇÕES DO CLIENTE” – Ou seja, ler (as vezes necessárias e suficientes até NÃO ter qualquer dúvida), interpretar, planear e executar, de preferência isento de erros.
+
+•	Cada um destes desafios terá que ser feito num ficheiro autónomo com extenção .py (no interpretador do Python (IDLE, ou num outro qualquer que queiram usar, como o PyCharm)
+
+•	Cada ficheiro terá que ter OBRIGATORIAMENTE (reler especificações do cliente..) os seguintes dados no cabeçalho:  ____author_____ =”vosso_nome”
+DESAFIOS / Projectos de programação
+
+1.	Façam um Programa que mostre a mensagem "Olá mundo. O meu nome é “o vosso nome depois de ser pedido via INPUT”, a data, e o ano”
+2.	Façam um Programa que peça um número e então mostre a mensagem “O número  foi [número]”.
+3.	Façam um Programa que peça dois números e imprima a soma.
+4.	Façam um Programa que peça as 7 notas  e mostre a média. Se a média for inferior a um determinado valor escolhido por vocês, o programa manda uma mensagem, caso seja superior, envia outra.
+5.	Façam um Programa que converta metros para centímetros.
+6.	Façam um Programa que peça o raio de um círculo, calcule e mostre sua área.
+7.	Façam um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o utilizador.
+8.	Façam um Programa que pergunte quanto vocês ganham por hora e o número de horas trabalhadas num mês. Calculem e mostre o total do vosso salário no referido mês.
+
+9.	Façam um Programa que peça a temperatura em graus Farenheit (F), transforme e mostre a temperatura em graus Celsius (C). NOTA: C = (5 * (F-32) / 9).
+
+10.	Façam um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+11.	Façam um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+a.	o produto do dobro do primeiro com metade do segundo .
+b.	a soma do triplo do primeiro com o terceiro.
+c.	o terceiro elevado ao cubo.
+
+12.	Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
+
+13.	Tendo como dado de entrada a altura (h) de uma pessoa, construam um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+ .	Para homens: (72.7*h) - 58
+a.	Para mulheres: (62.1*h) - 44.7
+
+14.	O João, pescador e informático, comprou um microcomputador para controlar o valor diário da sua pescaria. Todas as vezes que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca (50 quilos) deve pagar uma multa de 4 euros por quilo a mais. O João precisa que você o ajudem e façam um programa que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que o João deverá pagar. Imprimam os dados do programa no ecrã, com as mensagens adequadas.
+
+15.	Façam um Programa que pergunte quanto e que vocês ganham por hora e o número de horas trabalhadas num mês. Calculem e mostrem o total do vosso salário no referido mês, sabendo-se que são descontados 11% para a Segurança Social, 8% para o IRS e 5% para o sindicato, Façam um programa que vos dê:
+ .	salário bruto.
+a.	quanto pagou ao IRS.
+b.	quanto pagou ao sindicato.
+c.	o salário líquido.
+d.	calcule os descontos e o salário líquido, conforme a tabela abaixo:
+e.	+ Salário Bruto : €
+f.	- SS (11%) : €
+g.	- IRS (8%) : €
+h.	- Sindicato ( 5%) : €
+= Salário Liquido : €
+AJUDA: Salário Bruto - Descontos = Salário Líquido.
+
+16.	Façam um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considerem que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam 80€. Informe o utilizador das quantidades de latas de tinta a serem compradas e o preço total.
+
+17.	Façam um programa que peça o tamanho de um ficheiro para download (em MB) e a velocidade de um link de Internet (em Mbps), calculem e informem o utilizador do tempo aproximado de download do ficheiro em causa(em minutos).
+
+Bom trabalho futuros programadores.
+
+
+NOTA. Estes 17 exercícios terão que ser entregues conforme descrito nas "Especificações do Cliente", ou seja, não darei qualquer esclarecimento adicional sobre o que está nessa parte, uma vez que a vossa formação enquanto programadores (prestadores de serviços) será precisamente a análise e a execução dessas mesmas regras.
+
+Os 17 exercícios são simples e todos eles usam as mesmas dinâmicas de programação.
+Em termos de AULA terão 7 horas para os fazer. Tendo em conta que terão 2,42m (DUAS HORAS e quarenta e dois minutos) para fazer CADA um, e o grau de dificuldade até ao 13 é de 3/4 em 10, tem tempo de sobras para fazer todos os programas com a devida calma e para fazerem o que se pretende, e que conversámos: CONSOLIDAR.
